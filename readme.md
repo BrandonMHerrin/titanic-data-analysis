@@ -6,7 +6,7 @@ I chose to research data on the titanic passengers and see what I could learn fr
 
 I have always been curious about ships and how humans have been ablee to explore the world via the oceans and seas of the world. The titanic disaster was a tragic event that claimed the lives of so many people and I have a deep respect for those who lost their lives that faitful night. I could feel the weight of the event as I asked questions about the events that transpired and imagined the devastation and the emotions of losing loved ones that night. 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=TgtrztwCqGg)
 
 # Data Analysis Results
 
